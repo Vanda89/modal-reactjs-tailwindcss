@@ -1,6 +1,12 @@
 # modal-reactjs-tailwindcss
 
-A React component is a customizable modal dialog that allows you to display content and actions in your React application. It provides a flexible and reusable way to create modals with different styles and behaviors.
+The modal-reactjs-tailwindcss component provides a flexible and accessible modal window, ideal for displaying messages or confirming actions.
+It includes customizable icons, manages focus for better accessibility, and allows you to close the modal by clicking outside it.
+Perfect for use cases like confirming a successful action or presenting important information.
+
+## Github
+
+[github.com/Vanda89/modal-reactjs-tailwindcss](https://github.com/Vanda89/modal-reactjs-tailwindcss)
 
 ## Installation
 
