@@ -1,6 +1,6 @@
 {
   "name": "modal-reactjs-tailwindcss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A responsive modal component for React with keyboard interaction support and customizable icons, designed to improve accessibility.",
   "type": "module",
   "main": "index.js",
